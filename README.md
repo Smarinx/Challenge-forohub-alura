@@ -5,19 +5,7 @@
 
 </div>
 
-### Indice
 
-- [Descripción del proyecto](#Descripción-del-proyecto)
-
-- [Estado del proyecto](#Estado-del-proyecto)
-
-- [Características de la aplicación](#Características-de-la-aplicación)
-
-- [Acceso al proyecto](#Acceso-al-proyecto)
-
-- [Tecnologías utilizadas](#Tecnologías-utilizadas)
-
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
 
 
 ## Descripción del proyecto
