@@ -7,7 +7,6 @@
 
 
 
-
 ## Descripción del proyecto
 
 <p> Proyecto para una api rest enfocada en topicos de un foro. </p>
@@ -73,7 +72,7 @@
 
 ## Acceso al proyecto
 
-<p> <a href="https://github.com/DavidIG99/ChallengeForoHub" > ForoHub </a> </p>
+<p> <a href="https://github.com/Smarinx/Challenge-forohub-alura" >  Challenge alura ForoHub </a> </p>
 
 ## Tecnologías utilizadas
 
@@ -89,7 +88,7 @@
 
 ## Personas-Desarrolladores del Proyecto
 
-<p> <a href="https://github.com/DavidIG99" > David Idarraga Giraldo </a></p>
+<p> <a href="https://github.com/Smarinx" > Santiago Marin Romero </a></p>
 
 
 
